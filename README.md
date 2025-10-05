@@ -1,2 +1,2 @@
 # git_learning
-For get familar with github.
+This repository is for practicing the GitHub Flow.
